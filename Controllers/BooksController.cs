@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using BooksAPI.Data.Repository;
-using BooksAPI.Models; // Assuming Book model is in Models namespace
+// Assuming Book model is in Models namespace
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -126,5 +126,19 @@ namespace BooksAPI.Controllers
                 return StatusCode(500, new { message = "An error occurred while retrieving books", error = ex.Message });
             }
         }
+        // add new method to extract get all books with pagination
+        [HttpGet("getAllBooksWithPagination")]
+        public async Task<ActionResult<IEnumerable<Book>>> GetAllBooksWithPagination([FromQuery] int pageNumber, [FromQuery] int pageSize)
+        {
+            try
+            {
+                var books = await _bookRepository.GetAllBooksWithPagination(pageNumber, pageSize);
+                return Ok(books);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new { message = "An error occurred while retrieving books", error = ex.Message });
+            }
+        }        
     }
 }
