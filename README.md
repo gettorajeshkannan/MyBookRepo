@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BooksAPI Project
 
 ## Overview
@@ -63,3 +64,6 @@ Feel free to submit issues or pull requests for improvements or bug fixes.
 
 ## License
 This project is licensed under the MIT License.
+=======
+# MyBookRepo
+>>>>>>> 6fb876bd2bf3b3b65f4072f0109f89b6606971b2
