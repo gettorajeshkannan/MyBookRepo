@@ -1,0 +1,2 @@
+c:\Users\VI20351728\Downloads\booksapi-net8-main\BooksAPI\obj\Debug\net8.0\BooksAPI.csproj.AssemblyReference.cache
+c:\Users\VI20351728\Downloads\booksapi-net8-main\BooksAPI\obj\Debug\net8.0\BooksAPI.GeneratedMSBuildEditorConfig.editorconfig

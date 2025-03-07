@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj": {}
+    "c:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj": {
+    "c:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj",
+        "projectUniqueName": "c:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj",
         "projectName": "BooksAPI",
-        "projectPath": "C:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj",
+        "projectPath": "c:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj",
         "packagesPath": "C:\\Users\\VI20351728\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\obj\\",
+        "outputPath": "c:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VI20351728\\AppData\\Roaming\\NuGet\\NuGet.Config"

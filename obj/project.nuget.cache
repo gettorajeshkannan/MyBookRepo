@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MolofnpSH/8=",
+  "dgSpecHash": "kjp3v+Ab4tE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj",
+  "projectFilePath": "c:\\Users\\VI20351728\\Downloads\\booksapi-net8-main\\BooksAPI\\BooksAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.0\\microsoft.aspnetcore.authentication.jwtbearer.8.0.0.nupkg.sha512",
@@ -53,10 +53,10 @@
     "C:\\Users\\VI20351728\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
     "C:\\Users\\VI20351728\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\VI20351728\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512",
     "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
-    "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512"
+    "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\VI20351728\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
   ],
   "logs": []
 }
